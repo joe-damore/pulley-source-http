@@ -1,0 +1,10 @@
+{
+  "name": "pulley-source-http",
+  "version": "0.1.0",
+  "description": "Pulley source for HTTP and HTTPS downloads",
+  "main": "lib/index.js",
+  "repository": "git@github.com:joe-damore/pulley-source-http.git",
+  "author": "Joe D'Amore <joe@joedamore.me>",
+  "license": "MIT",
+  "private": false
+}
